@@ -1,0 +1,15 @@
+body{
+    font-family: "helvetica" ;
+}
+
+h1{
+    font-family: "helvetica" ; color: cornflowerblue
+}
+
+li.pink_text {
+    color:hotpink
+}
+
+a.orange_text {
+    color:orange
+}
