@@ -1,9 +1,10 @@
 body{
-    font-family: "helvetica" ;
+    font-family: 'Crimson Text', serif; 
 }
 
 h1 {
-    font-family: "helvetica" ; color: cornflowerblue
+    font-family: 'Open Sans', sans-serif; ; color: cornflowerblue ;
+    text-transform: uppercase ;
 }
 
 h2 {
@@ -14,10 +15,20 @@ li.pink_text {
     color:hotpink
 }
 
-a.orange_text {
-    color:darkorange
+a.coral_text {
+    color:coral
 }
 
 p {
-    color:darkseagreen
+    color:darkseagreen ;
+    margin-top: 20px ; 
+    margin-right: 1000px ; 
+    padding-top: 10px ;
 }
+
+/*#2 {color:darkseagreen ;
+margin-bottom: 5px ; 
+margin-left: 0 ;
+margin-right: 1000px ; 
+padding-top: 3px ;
+}*/
