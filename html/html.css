@@ -5,6 +5,13 @@ body{
 h1 {
     font-family: 'Open Sans', sans-serif; ; color: cornflowerblue ;
     text-transform: uppercase ;
+    text-align: center;
+}
+
+.karen {
+    position:absolute;
+    margin-left: 585px;
+        
 }
 
 h2 {
