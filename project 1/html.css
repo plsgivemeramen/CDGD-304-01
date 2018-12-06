@@ -1,0 +1,85 @@
+body{
+    font-family: 'Crimson Text', serif; 
+    margin: 0 ;
+}
+
+
+h1 {
+    font-family: 'Open Sans', sans-serif; ; color: cornflowerblue ;
+    text-transform: uppercase ;
+    text-align: center;
+    margin: 0 ;
+}
+
+.karen {
+    position:absolute;
+    margin-left: 585px;
+
+}
+
+h2 {
+    color:cornflowerblue ;
+}
+
+a:link{color:black;
+    text-decoration: none;}
+a:visited {color:black;}
+a:hover {color:blue;}
+/*HOVER AND LINKS*/
+
+/*li.pink_text {
+color:hotpink ;
+font-family: 'Crimson Text', serif ;
+}
+
+a.coral_text {
+color:darkseagreen;
+font-family: 'Crimson Text', serif ;
+}*/
+
+#bio {
+    color:darkseagreen ;
+    margin-top: 20px ; 
+    margin-right: 1000px ; 
+    padding-top: 10px ;
+    line-height: 19px ;
+    font-family: 'Crimson Text', serif ;
+}
+
+#bio2 {color:darkseagreen ;
+    margin-bottom: 5px ; 
+    margin-top: 0 ;
+    margin-left: 0 ;
+    margin-right: 1000px ; 
+    line-height: 19px ;
+    font-family: 'Crimson Text', serif ;
+}
+
+.grid {
+    display: grid ;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr ;
+    /*[start] 1fr [middle] 1fr [end] ;*/
+    align-items: center;
+    /*    align-items: stretch ;*/
+
+}
+
+.home, .about_me, .portfolio, .contact {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img1 {
+    position: relative ;
+    left: 20px ;
+}
+
+#img2 {
+    position: relative;
+    right: 20px ;
+}
+
+#contact {
+    font-family: 'Crimson Text', serif ;
+    color:darkseagreen ;
+}
